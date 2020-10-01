@@ -6,3 +6,4 @@ Un blog increíble para el curso de Git y Github de Platzi
 
 ## En este curso por primera vez aprendi a usar correctamente Git y Github.
 ## Fue muy divertido
+## Está disponible para todas las edades
